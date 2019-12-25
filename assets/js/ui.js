@@ -1,8 +1,8 @@
-// A $( document ).ready() block.
-
+AOS.init();
 $(document).ready(function() {
     setTimeout(function() {
         $('body').removeClass('preload').addClass('loaded');
 
-    }, 5000);
+    }, 3000);
+
 });

@@ -171,7 +171,7 @@ a {
 }
 
 a:hover {
-    color: #ff497c;
+    color: #88932A;
     text-decoration: none;
     -webkit-transition: all 0.15s linear 0s;
     transition: all 0.15s linear 0s;
@@ -1807,8 +1807,8 @@ Owl Default Theme
 
 .testimonials-sliders.ds .owl-dots .owl-dot.active span,
 .testimonials-sliders.ds .owl-dots .owl-dot:hover span {
-    background-color: #ff497c;
-    border: 1px solid #ff497c;
+    background-color: #88932A;
+    border: 1px solid #88932A;
     opacity: 1;
 }
 
@@ -2063,7 +2063,7 @@ html[xmlns] .slides {
 }
 
 .flex-direction-nav .flex-prev:hover {
-    background-color: #ff497c;
+    background-color: #88932A;
     color: #fff;
     left: 0;
 }
@@ -2074,7 +2074,7 @@ html[xmlns] .slides {
 }
 
 .flex-direction-nav .flex-next:hover {
-    background-color: #ff497c;
+    background-color: #88932A;
     color: #fff;
     right: 0;
 }
@@ -3227,7 +3227,7 @@ a.pswp__share--download:hover {
 */
 
 #toTop {
-    background-color: #ff497c;
+    background-color: #88932A;
     border-radius: 50%;
     bottom: 10px;
     color: transparent;
@@ -6012,7 +6012,7 @@ img {
 
 .Cube.panelLoad {
     z-index: 1001;
-    top: 3.5%;
+    top: 50vh;
     -webkit-animation: panel 3s infinite forwards;
     animation: panel 3s infinite forwards;
 }
@@ -6811,8 +6811,8 @@ body.boxed {
 }
 
 .btn-maincolor {
-    background-color: #ff497c;
-    border: 4px solid #ff497c;
+    background-color: #88932A;
+    border: 4px solid #88932A;
 }
 
 .btn-maincolor2 {
@@ -6841,7 +6841,7 @@ body.boxed {
 }
 
 .btn-outline-maincolor {
-    border-color: #ff497c;
+    border-color: #88932A;
     color: #1f2732;
 }
 
@@ -7115,12 +7115,12 @@ body.boxed {
 }
 
 .ls .btn-outline-maincolor:hover {
-    background-color: #ff497c;
+    background-color: #88932A;
 }
 
 .ls .btn-maincolor:hover {
     background-color: #fff;
-    color: #ff497c;
+    color: #88932A;
 }
 
 .ls .btn-outline-maincolor2:hover {
@@ -7345,7 +7345,7 @@ body.boxed {
 }
 
 .ds a:not(.btn):hover {
-    color: #ff497c;
+    color: #88932A;
 }
 
 .ds h1,
@@ -7526,7 +7526,7 @@ body.boxed {
 .ds .btn-outline-maincolor:hover,
 .ds .btn-maincolor:hover {
     background-color: #fff;
-    color: #ff497c;
+    color: #88932A;
 }
 
 .ds .btn-outline-maincolor2:hover,
@@ -7904,7 +7904,7 @@ body.boxed {
 }
 
 .cs {
-    background-color: #ff497c;
+    background-color: #88932A;
     color: #fff;
 }
 
@@ -8345,7 +8345,7 @@ body.boxed {
 .response,
 .color-main {
     border-color: #ff497c;
-    color: #ff497c !important;
+    color: #88932A !important;
 }
 
 .color-main2 {
@@ -8354,13 +8354,13 @@ body.boxed {
 }
 
 .color-main3 {
-    border-color: #00bea3;
-    color: #00bea3 !important;
+    border-color: #88932A;
+    color: #88932A !important;
 }
 
 .color-main4 {
-    border-color: #f1894c;
-    color: #f1894c !important;
+    border-color: #a0ce4e;
+    color: #a0ce4e !important;
 }
 
 .color-dark {
@@ -9179,7 +9179,7 @@ span.muted-bg {
 }
 
 .write-icon .border-icon {
-    border: 4px solid #00bea3;
+    border: 4px solid #a9a9a9;
 }
 
 .write-icon .border-icon i {
@@ -9187,11 +9187,11 @@ span.muted-bg {
 }
 
 .write-icon .teaser-icon {
-    background-color: #00bea3;
+    background-color: #a9a9a9;
 }
 
 .visit-icon .border-icon {
-    border: 4px solid #f1894c;
+    border: 4px solid #88932a;
 }
 
 .visit-icon .border-icon i {
@@ -9199,7 +9199,7 @@ span.muted-bg {
 }
 
 .visit-icon .teaser-icon {
-    background-color: #f1894c;
+    background-color: #88932a;
 }
 
 
@@ -9708,7 +9708,7 @@ filters
 }
 
 .filters .active {
-    color: #ff497c;
+    color: #88932A;
 }
 
 @media (min-width: 992px) {
@@ -13236,7 +13236,7 @@ a img.aligncenter {
     }
     .ds .sf-menu>li>a:hover,
     .ds .sf-menu>li.active>a {
-        color: #ff497c;
+        color: #88932A;
     }
     .ls .sf-menu>li>a {
         color: #323232;
@@ -14802,7 +14802,7 @@ body.active-side-header.slide-right .page_header_side {
         text-shadow: 0 0 7px rgba(0, 0, 0, 0.25);
     }
     .page_slider .intro_featured_word {
-        font-size: 80px;
+        font-size: 60px;
         line-height: 0.9;
         margin: 10px 0;
         text-shadow: 0 0 13px rgba(0, 0, 0, 0.1);
@@ -14845,7 +14845,7 @@ body.active-side-header.slide-right .page_header_side {
         font-size: 42px;
     }
     .page_slider .intro_featured_word {
-        font-size: 138px;
+        font-size: 60px;
     }
     .page_slider .intro_after_featured_word {
         color: #fff;
@@ -14860,13 +14860,13 @@ body.active-side-header.slide-right .page_header_side {
         font-size: 54px;
     }
     .page_slider .intro_featured_word {
-        font-size: 200px;
+        font-size: 60px;
         font-weight: 600;
         margin-bottom: 20px;
         white-space: nowrap;
     }
     .container .page_slider .intro_featured_word {
-        font-size: 138px;
+        font-size: 60px;
     }
 }
 
@@ -19046,7 +19046,7 @@ a.btn {
 }
 
 .testimonials-sliders .small-text.author-job {
-    color: #ff497c;
+    color: #88932A;
     font-weight: 700;
     letter-spacing: 0.2em;
     margin: 35px 0 12px;
@@ -19124,8 +19124,8 @@ a.btn {
 }
 
 .testimonials-btn a {
-    background-color: #ff497c;
-    border: 3px solid #ff497c;
+    background-color: #88932A;
+    border: 3px solid #88932A;
     border-radius: 50%;
     padding: 25px;
     position: relative;
@@ -19140,7 +19140,7 @@ a.btn {
 }
 
 .testimonials-btn a:hover {
-    border: 3px solid #ff497c;
+    border: 3px solid #88932A;
 }
 
 .testimonials-btn a i {
@@ -20005,7 +20005,7 @@ a.btn {
 }
 
 .white-button .white-btn:hover {
-    background-color: #ff497c;
+    background-color: #88932A;
     color: #fff;
 }
 
@@ -21681,7 +21681,7 @@ h4.margin {
 }
 
 .ds .page-bottom a.btn-outline-maincolor:hover {
-    background-color: #ff497c;
+    background-color: #88932A;
 }
 
 .video-post {
@@ -23132,4 +23132,37 @@ h5 {
 
 .checkbox-slider--b-flat input+span:before {
     box-shadow: none;
+}
+
+
+/* Contact page */
+
+#contactPage {
+    margin-top: 4rem;
+}
+
+#contactPage .container {
+    padding-bottom: 0;
+}
+
+
+/* About Page  */
+
+#aboutPage {
+    margin-top: 8rem;
+}
+
+#aboutPage p {
+    text-align: justify;
+}
+
+
+/* Services Page  */
+
+#servicesPage {
+    margin-top: 8rem;
+}
+
+#servicesPage .container {
+    padding-bottom: 20px;
 }
