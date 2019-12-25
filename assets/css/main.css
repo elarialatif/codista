@@ -9798,6 +9798,41 @@ aside>*+* {
     margin-bottom: 50px;
 }
 
+.page_footer .animated.fadeInUp {
+    margin-top: 0 !important;
+}
+
+.flogo-box {
+    background: #fff;
+    border-radius: 40px;
+    height: 60px;
+    left: 50%;
+    padding: 0 10px;
+    position: absolute;
+    top: -4rem;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.flogo-btn {
+    align-items: center;
+    background: #fff;
+    border-radius: 50%;
+    -webkit-box-align: center;
+    -webkit-box-pack: center;
+    color: #e74c3c;
+    display: -webkit-box !important;
+    display: flex !important;
+    display: -ms-flexbox !important;
+    -ms-flex-align: center;
+    -ms-flex-pack: center;
+    float: right;
+    height: 60px;
+    justify-content: center;
+    width: 40px;
+}
+
 @media (max-width: 767px) {
     .page_footer .widget {
         margin-bottom: 35px;
@@ -10756,8 +10791,8 @@ widget_recent_entries
 a[class*='fa-']:before {
     display: inline-block;
     font-family: "FontAwesome", sans-serif;
-    font-size: 14px;
-    line-height: 1;
+    font-size: 25px;
+    line-height: 0;
     width: 1em;
 }
 
@@ -11369,7 +11404,7 @@ a[class*="fa-"].fa-html5:hover {
 
 a.color-icon.fa-instagram,
 a[class*="fa-"].fa-instagram:hover {
-    color: #3f729b;
+    color: #e4405f;
 }
 
 a.color-icon.fa-internet-explorer,
