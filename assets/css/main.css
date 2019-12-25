@@ -14051,9 +14051,45 @@ a.logo {
     -ms-flex-align: center;
 }
 
-a.logo img {
+a.logo div {
     display: inline-block;
     max-height: 80px;
+}
+
+a.logo div:first-child {
+    align-items: center;
+    background: #fff;
+    border-radius: 50%;
+    -webkit-box-align: center;
+    -webkit-box-pack: center;
+    color: #e74c3c;
+    display: -webkit-box;
+    display: flex;
+    display: -ms-flexbox;
+    -ms-flex-align: center;
+    -ms-flex-pack: center;
+    float: right;
+    height: 65px;
+    justify-content: center;
+    width: 200px;
+}
+
+a.logo div:first-child img {
+    width: 40px;
+    height: 40px;
+}
+
+a.logo:hover div:first-child img {
+    transition: 0.70s;
+    -webkit-transition: 0.70s;
+    -moz-transition: 0.70s;
+    -ms-transition: 0.70s;
+    -o-transition: 0.70s;
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(360deg);
 }
 
 a.logo .logo-text {
